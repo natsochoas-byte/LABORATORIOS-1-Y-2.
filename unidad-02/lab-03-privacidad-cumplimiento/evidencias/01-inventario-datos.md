@@ -1,3 +1,4 @@
+# EVIDENCIAS
 # Actividad 1 — Inventario y finalidad de los datos
 
 ## Objetivo
@@ -33,3 +34,27 @@ Los tiempos de conservación deben definirse según la finalidad de cada dato y 
 ## Conclusión
 
 El inventario permite conocer qué datos almacena la empresa, para qué los necesita y quién debería consultarlos. Esto ayuda a evitar la recopilación innecesaria de información y a establecer controles de acceso y periodos de conservación adecuados.
+
+Actividad 2 — Principio de minimización
+Objetivo
+Analizar qué datos necesita el área de atención al cliente y reducir la información que puede consultar para cumplir con su finalidad.
+Análisis de la solicitud
+1. ¿Todos los campos son necesarios para atención al cliente?
+
+No. Para atender consultas, normalmente basta con el identificador del cliente, su nombre, correo y teléfono. Los demás datos deben incluirse solamente si existe una necesidad justificada.
+
+2. ¿Por qué soporte necesitaría conocer el RFC?
+
+En general, no lo necesita para atender consultas comunes. El RFC sería necesario únicamente si una solicitud específica requiere información fiscal.
+
+3. ¿Necesita conocer la edad?
+
+No necesariamente, porque la edad no suele ser indispensable para brindar atención al cliente.
+
+4. ¿Necesita conocer el código postal?
+
+No siempre. Solo sería necesario si algún proceso de atención requiere conocer la ubicación del cliente.
+
+5. ¿Qué principio de privacidad está relacionado con esta decisión?
+
+El principio de minimización de datos, que consiste en recopilar y utilizar únicamente los datos necesarios para cumplir una finalidad específica.
